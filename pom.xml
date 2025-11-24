@@ -11,7 +11,8 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>java-configuration</module>
-      <module>annotation-based-configuration</module>
+    <module>annotation-based-configuration</module>
+    <module>steriotype-annotations</module>
   </modules>
 
   <properties>
